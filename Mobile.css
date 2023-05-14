@@ -115,7 +115,7 @@ nav .container{
      padding: var(--search-padding);
      background-color: var(--white-color);
      border-radius: var(--border-radius-1);
-     width: 25vh;
+     width: 50%;
      height: 3rem;
      display: flex;
      align-items: center;
@@ -124,8 +124,8 @@ nav .container{
 
 
 .search-bar input[type="search"]{
-     width: 17vh;
-     height: 2rem;
+     width: 90%;
+     height: 3rem;
      background-color: transparent;
      border: none;
 }
