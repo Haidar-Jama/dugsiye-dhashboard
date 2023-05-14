@@ -115,7 +115,7 @@ nav .container{
      padding: var(--search-padding);
      background-color: var(--white-color);
      border-radius: var(--border-radius-1);
-     width: 70vh;
+     width: 60%;
      height: 4rem;
      display: flex;
      align-items: center;
@@ -145,7 +145,7 @@ nav .container{
 Main .container{
      width: 80%;
      display: grid;
-     grid-template-columns: 20vh auto 35vh;
+     grid-template-columns: 15% auto 30%;
      gap: 2rem;
      margin: 0 auto;
      margin-top: 12rem;
@@ -654,7 +654,7 @@ Main .container{
 .course-progress{
 
      display: grid;
-     grid-template-columns: 10vh 20vh;
+     grid-template-columns: 40% 50%;
      grid-template-rows: 1fr 1fr;
      align-items: center;
      justify-content: center;
